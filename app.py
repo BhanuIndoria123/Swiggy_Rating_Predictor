@@ -6,9 +6,9 @@ import joblib
 # LOAD MODEL + DATA
 # -------------------------
 model = joblib.load("swiggy_rating_model.joblib")
-city_list = joblib.load("city_list.joblib")
-area_list = joblib.load("area_list.joblib")
-food_list = joblib.load("food_list.joblib")
+city_list = joblib.load("models/city_list.joblib")
+area_list = joblib.load("models/area_list.joblib")
+food_list = joblib.load("models/food_list.joblib")
 
 # -------------------------
 # PAGE CONFIG
