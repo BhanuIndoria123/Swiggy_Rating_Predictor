@@ -1,8 +1,0 @@
-<<<<<<< HEAD:requirements.txt
-streamlit
-pandas
-numpy
-scikit-learn
-joblib==1.4.2
-=======
->>>>>>> 5ff940c (save local changes before sync):Requirements.txt
